@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CV Dimas Saputra</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Dimas Saputra</h1>
+      <p>Mahasiswa Teknik Informatika | UI/UX Designer | Tester</p>
+      <div class="contact">
+        <p>📍 Nganjuk, Jawa Timur | 📞 0838-0979-3057 | 📧 dimassaputra2484@gmail.com</p>
+        <p>🔗 <a href="https://www.linkedin.com/in/dimas-saputra-a1647b361" target="_blank">LinkedIn</a></p>
+      </div>
+    </header>
+
+    <section>
+      <h2>Profil</h2>
+      <p>Mahasiswa semester 4 Teknik Informatika di Politeknik Negeri Jember. Berpengalaman sebagai UI/UX Designer dan Tester, serta aktif dalam berbagai proyek pengembangan perangkat lunak. IPK 3.47. Terbuka terhadap tantangan baru dan siap berkontribusi secara profesional.</p>
+    </section>
+
+    <section>
+      <h2>Pendidikan</h2>
+      <ul>
+        <li><strong>Politeknik Negeri Jember</strong> – D4 Teknik Informatika (2023–sekarang)</li>
+        <li><strong>SMK Negeri Kasiman</strong> – TKJ (2020–2023)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Pengalaman</h2>
+      <ul>
+        <li><strong>UI/UX Designer</strong> – Roti Bakar Nyuss (Sep–Des 2023)</li>
+        <li><strong>Tester</strong> – Kelontong Raya Ledger (Jan–Mei 2024)</li>
+        <li><strong>Test Administrator</strong> – DKTCare (Ags–Des 2024)</li>
+        <li><strong>Tester</strong> – Nganjuk Ekraf (Feb 2024–Mei 2025)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Keterampilan</h2>
+      <p><strong>Teknikal:</strong> Figma, Canva, Trello, VS Code, Office</p>
+      <p><strong>Bahasa:</strong> Indonesia (Lancar), Inggris (Dasar)</p>
+      <p><strong>Softskill:</strong> Public Speaking, Teamwork, Problem Solving</p>
+    </section>
+
+    <section>
+      <h2>Portofolio</h2>
+      <p>Lihat proyek & desain: <a href="https://www.canva.com" target="_blank">Canva Portfolio</a></p>
+    </section>
+  </div>
+</body>
+</html>
